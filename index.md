@@ -6,6 +6,7 @@ layout: default
 
 <br>
 
+{% include 02-image.md %}
 {% [image](https://github.com/vishalpathania) %}
 
 <br>
