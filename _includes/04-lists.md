@@ -1,5 +1,3 @@
-
-*apple
--orange
-
+- apple
+- orange
 
